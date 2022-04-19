@@ -95,7 +95,7 @@
 <tr>
   <td><a href = "https://github.com/ialeksfaizov/Recovery-of-gold">Предсказание коэффициента восстановления золота из золотосодержащей руды</a></td>
   <td>Необходимо построить модель для определния коэффициента восстановления золота из золотосодержащей руды для условной золотодобывающей компании.</td>
-  <td>Pandas, Numpy, Scikit-learn, SciPy, Matplotlib, Seaborn</td>
+  <td>Pandas, Numpy, Scikit-learn, Seaborn</td>
   <td>Завершен</td>
 </tr>
  
