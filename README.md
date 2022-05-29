@@ -96,6 +96,12 @@
   <td>Pandas, Numpy, Scikit-learn, Seaborn</td>
   <td>Завершен</td>
 </tr>
+  
+<tr>
+  <td><a href = "https://github.com/ialeksfaizov/car-price-prediction_GB">Условный сервис по продаже автомобилей разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Необходимо построить модель для определения стоимости.</td>
+  <td>Pandas, Numpy, Seaborn, Scikit-learn, LGBMRegressor, CatBoostRegressor, XGBRegressor</td>
+  <td>Завершен</td>
+</tr>
  
 </table>
 </details>
