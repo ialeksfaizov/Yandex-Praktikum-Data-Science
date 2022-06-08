@@ -71,6 +71,32 @@
 </table>
 </details>
 
+## Анализ текстов (NLP):
+
+<details open>
+  <summary>Список проетктов по теме</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Описание</th>
+  <th>Stack</th>
+  <th>Статус проекта</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/ialeksfaizov/Predict-fake-news">Классификация заголовков новостей.</a></td>
+  <td>Требуется разработать модель, которая будет способна различать заголовки реальных и фейковых новостей (на русском языке)</td>
+  <td>Pandas, Numpy, NLTK (russia), wordcloud, TfidfVectorizer, MultinomialNB, SGDClassifier, RandomForestClassifier, LogisticRegression</td>
+  <td>Завершен</td>
+</tr>
+  
+<tr>
+  <td><a href = "https://github.com/ialeksfaizov/toxic-comments-classification">Классификация токсичных комментариев.</a></td>
+  <td>Необходимо обучить модель классифицировать комментарии на позитивные и негативные.</td>
+  <td>Pandas, Numpy, NLTK (english), wordcloud, TfidfVectorizer, MultinomialNB, SGDClassifier, RandomForestClassifier, LogisticRegression</td>
+  <td>Завершен</td>
+</tr>
+
 ## Регрессия:
 
 <details open>
@@ -107,9 +133,11 @@
 </table>
 </details>
 
+  
+## Временные ряды:
 
 <details open>
-  <summary>Анализ текстов (NLP)</summary>
+  <summary>Список проетктов по теме</summary>
 <table>
 <tr>
   <th>Название проекта</th>
@@ -119,9 +147,9 @@
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/ialeksfaizov/Predict-fake-news">Классификация заголовков новостей.</a></td>
-  <td>Требуется разработать модель, которая будет способна различать заголовки реальных и фейковых новостей (на русском языке)</td>
-  <td>Pandas, Numpy, Scikit-learn, NLTK, wordcloud</td>
+  <td><a href = "https://github.com/ialeksfaizov/predict-for-taxi">Прогноз заказов такси</a></td>
+  <td>Необходимо спрогнозировать количество заказов такси на следующий час.</td>
+  <td>Pandas, Numpy, Scikit-learn, SciPy, Matplotlib, Seaborn, Statsmodels, LGBMRegressor, CatBoostRegressor, XGBRegressor</td>
   <td>Завершен</td>
 </tr>
   
