@@ -96,6 +96,9 @@
   <td>Pandas, Numpy, NLTK (english), wordcloud, TfidfVectorizer, MultinomialNB, SGDClassifier, RandomForestClassifier, LogisticRegression</td>
   <td>Завершен</td>
 </tr>
+  
+</table>
+</details>
 
 ## Регрессия:
 
