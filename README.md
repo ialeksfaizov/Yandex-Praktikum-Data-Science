@@ -94,7 +94,7 @@
   <td><a href = "https://github.com/ialeksfaizov/toxic-comments-classification">Классификация токсичных комментариев.</a></td>
   <td>Необходимо обучить модель классифицировать комментарии на позитивные и негативные.</td>
   <td>Pandas, Numpy, NLTK (english), wordcloud, TfidfVectorizer, MultinomialNB, SGDClassifier, RandomForestClassifier, LogisticRegression</td>
-  <td>В работе</td>
+  <td>Завершен</td>
 </tr>
   
 </table>
