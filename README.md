@@ -100,6 +100,29 @@
 </table>
 </details>
 
+## Компьютерное зрение (OpenCV):
+
+<details open>
+  <summary>Список проетктов по теме</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Описание</th>
+  <th>Stack</th>
+  <th>Статус проекта</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/ialeksfaizov/age-prediction">Определение возраста покупателей.</a></td>
+  <td>Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В распоряжении набор фотографий людей с указанием возраста.</td>
+  <td>Pandas, Numpy, Seaborn, Statsmodels, PIL, TensorFlow, Keras, ResNet</td>
+  <td>Завершен</td>
+</tr>
+  
+  
+</table>
+</details>
+
 ## Регрессия:
 
 <details open>
